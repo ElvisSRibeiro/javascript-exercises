@@ -1,0 +1,8 @@
+:root {
+    --primary-color: rgb(2, 42, 51);
+}
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary-color);
+}

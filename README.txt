@@ -1,0 +1,1 @@
+Just a dump for some javascrips exercises i'm doing trying to relearn some things
